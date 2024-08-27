@@ -3,7 +3,7 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.header('st.write')
+st.header('st.write 수업 중 테스트')
 
 # Example 1
 
